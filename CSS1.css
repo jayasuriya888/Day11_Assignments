@@ -1,0 +1,33 @@
+﻿ #formdiv {
+            border: 5px solid grey;
+            background-color: lightgray;
+        }
+
+        .header {
+            background-color: darkgrey;
+        }
+
+        .even {
+            background-color: lightgrey;
+        }
+
+        .tablediv {
+            overflow-x: auto;
+        }
+
+        .tabledetails {
+            padding: 8px 14px 4px 8px;
+            border-collapse: collapse;
+            border: 3px solid darkgray;
+        }
+
+        .highlight {
+            border: 1px solid black;
+        }
+
+        tr, td {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: x-large;
+            height: 50px;
+            border-spacing: 10px 50px;
+        }
